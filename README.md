@@ -1,2 +1,2 @@
 # International Debt Statistics Analysis
- An analysis of international debt indicators using SQL
+In this analysis, we dive into the world of international debt and analyze data collected by The World Bank. The dataset includes information on the amount of debt (in USD) that developing countries owe across various categories. Through our analysis using SQL, we discover the total amount of debt owed by the countries listed in the dataset, identify which country holds the highest amount of debt, and calculate the average debt owed by countries across different debt indicators. This provides valuable insights into the financial state of developing nations and the role of organizations like The World Bank in managing their economies.
